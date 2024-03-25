@@ -23,6 +23,7 @@ https://github.com/alcir-junior-caju/study-full-cycle-3-0
 Para quem quiser visualizar o projeto na IDE clique no teclado a tecla `ponto`, esse recurso do GitHub é bem bacana
 
 ---
+
 ### O que é?
 
 É o processo de integrar modificações do codebase de forma contínua e automatizada, evitando assim erros humanos de verificação, garantindo mais agilidade e segurança no processo de desenvolvimento de software.
